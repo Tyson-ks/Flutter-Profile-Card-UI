@@ -13,4 +13,4 @@ Also how to use statemanagement to interacte with other widgets.
 ## App Demo
 <img src="images/profile_card_app_demo.gif" width=300/>
 
-## Thanks for checking out my projects.
+## Thanks for checking out my project.
